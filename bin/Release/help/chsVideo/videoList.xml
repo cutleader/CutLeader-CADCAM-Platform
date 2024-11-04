@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Video>
+    <ImpExp categoryName="数据导入导出">
+    	<ImpDxf videoName="导入dxf文件" videoComment="导入dxf文件到CutLeader数据库。">impDxf.wmv</ImpDxf>
+    	<ExpPart videoName="导出零件" videoComment="导出CutLeader零件。">expCLPart.wmv</ExpPart>
+    	<ImpPart videoName="导入零件" videoComment="导入CutLeader零件。">impCLPart.wmv</ImpPart>
+    	<ExpSheet videoName="导出板材" videoComment="导出CutLeader板材。">expCLSheet.wmv</ExpSheet>
+    	<ImpSheet videoName="导入板材" videoComment="导入CutLeader板材。">impCLSheet.wmv</ImpSheet>
+    </ImpExp>
+    <Part categoryName="零件绘制">
+      <DrawBaseGeom videoName="绘制基本图形" videoComment="绘制基本图形，如直线，圆弧。">drawBaseGeom.wmv</DrawBaseGeom>
+      <DrawStdGeom videoName="绘制标准图形" videoComment="绘制标准图形，如矩形，椭圆。">drawStdGeom.wmv</DrawStdGeom>
+    </Part>
+    <CutFeature categoryName="编辑加工工艺">
+    	<Lead videoName="编辑引入引出" videoComment="编辑回路的起切点，引入引出线。">editLead.wmv</Lead>
+	<BMJ videoName="编辑微连接" videoComment="编辑回路上的微连接。">editBMJ.wmv</BMJ>
+	<Corner videoName="编辑角特征" videoComment="编辑回路上的角特征。">editCorner.wmv</Corner>
+	<Condition videoName="编辑切割条件" videoComment="编辑图形的切割条件。">editCond.wmv</Condition>
+    </CutFeature>
+    <Sheet categoryName="编辑板材">
+    	<AddPart videoName="添加零件实例" videoComment="添加零件到板材。">addPartInst.wmv</AddPart>
+    	<GridPart videoName="创建零件阵列" videoComment="创建零件阵列。">gridPart.wmv</GridPart>
+	<EditPart videoName="编辑零件" videoComment="快速编辑板材上的零件。">editPartInst.wmv</EditPart>
+    </Sheet>
+    <CutSeq categoryName="编辑加工工序">
+    	<AutoSeq videoName="自动生成工序" videoComment="为板材上所有零件生成切割工序。">autoSeq.wmv</AutoSeq>
+    	<AddSeq videoName="手工添加工序" videoComment="为板材上的零件手工添加切割工序。">addSeq.wmv</AddSeq>
+	<ViewSeq videoName="工序模拟" videoComment="自动模拟所有切割工序。">viewSeq.wmv</ViewSeq>
+	<GenerateNC videoName="生成NC代码" videoComment="为所有切割工序生成NC代码。">generateNC.wmv</GenerateNC>
+    </CutSeq>
+    <Nest categoryName="自动套料">
+	<CreateNestJob videoName="创建排版作业" videoComment="创建排版作业以生成板材.">createNestJob.wmv</CreateNestJob>
+	<AdjustNestParam videoName="调整排版参数" videoComment="调整排版参数，例如旋转角度，排版优先级等等。">adjustNestParam.wmv</AdjustNestParam>
+	<PartInPartNest videoName="零件内嵌排版" videoComment="在排版时可以把部分零件嵌到其他零件中。">partInPartNest.wmv</PartInPartNest>
+	<RemnantNest videoName="生成余料" videoComment="排版结束后生成余料。">remnantNest.wmv</RemnantNest>
+    </Nest>
+    <ExpLib categoryName="专家库配置">
+	<CutFeatureRule videoName="加工工艺处理规则" videoComment="自动处理加工工艺时会应用这些规则。">cutFeatureRule.wmv</CutFeatureRule>
+	<CutSeqRule videoName="加工工序生成规则" videoComment="自动生成加工工序时会应用这些规则。">cutSeqRule.wmv</CutSeqRule>
+	<NestRule videoName="自动套料规则" videoComment="自动套料时会应用这些规则。">nestRule.wmv</NestRule>
+    </ExpLib>
+</Video>

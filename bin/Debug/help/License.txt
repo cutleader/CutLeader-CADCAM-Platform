@@ -1,0 +1,60 @@
+EULA (End User License Agreement) for CutLeader
+
+IMPORTANT NOTICE
+Read this License Agreement carefully before using this Software. 
+BY USING THIS SOFTWARE IN ANY WAY YOU ACKNOWLEDGE THAT YOU HAVE READ, 
+UNDERSTAND AND AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU DO NOT 
+AGREE TO THESE TERMS, DO NOT USE THIS SOFTWARE IN ANY WAY, AND 
+PROMPTLY RETURN IT OR DELETE ANY COPIES OF THIS SOFTWARE IN YOUR 
+POSSESSION.
+
+
+LICENSE GRANT
+TAOSoft grants you a non-exclusive license to use this software, and 
+any associated documentation ("The Software"), as indicated herein. 
+If you have purchased a Single User License, one copy of the Software 
+may be installed and used, for internal use only, on a single computer. 
+The Software is in "use" on a single computer when it has been loaded 
+into temporary memory (i.e. RAM) or installed into permanent 
+memory (hard disk or other device) of that computer. If you have 
+purchased a Multiple User License (you specified several copies of 
+the software when you purchased it), the Software may be installed 
+and used, for internal purposes only, on the number of computers 
+authorized at the time of purchase.
+
+
+This License is effective until terminated. You may terminate it at any time by destroying the Software, together with all copies thereof. This License will also terminate if you fail to comply with any term or condition of this Agreement. Upon such termination, you agree to destroy the Software, together with all copies thereof.
+
+
+COPYRIGHT. 
+This Software and its source code are proprietary products of TAOSoft 
+and are protected by copyright and other intellectual property laws. 
+The Software is licensed and not sold. You acquire only the right 
+to use the Software and do not acquire any rights, express or implied, 
+in the Software other than those specified in this License.
+
+
+LIMITATIONS
+You may not use, copy, emulate, clone, rent, lease, sell, modify,
+decompile, disassemble, otherwise reverse engineer, or transfer
+the licensed program, or any subset of the licensed program, except
+as provided for in this agreement. Any such unauthorized use shall
+result in immediate and automatic termination of this license and
+may result in criminal and/or civil prosecution.
+
+
+DISCLAIMER OF WARRANTIES
+The Software is supplied "AS IS". TAOSoft disclaims all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The user must assume the entire risk of using the Software.
+
+
+
+DISCLAIMER OF DAMAGES
+TAOSoft assumes no liability for damages, direct or consequential, 
+which may result from the use of the Software, even if TAOSoft has 
+been advised of the possibility of such damages. Any liability of 
+the seller will be limited to refund the purchase price.
+
+
+Copyright (C) 2005-2018 by TAOSoft Corporation.  All rights reserved.  
+
+

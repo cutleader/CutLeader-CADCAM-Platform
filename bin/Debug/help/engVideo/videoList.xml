@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Video>
+    <ImpExp categoryName="Export/Import Data">
+    	<ImpDxf videoName="Import dxf" videoComment="Import dxf file to CutLeader Database.">impDxf.wmv</ImpDxf>
+    	<ExpPart videoName="Export Part" videoComment="Export CutLeader Part.">expCLPart.wmv</ExpPart>
+    	<ImpPart videoName="Import Part" videoComment="Import CutLeader Part.">impCLPart.wmv</ImpPart>
+    	<ExpSheet videoName="Export Sheet" videoComment="Export CutLeader Sheet.">expCLSheet.wmv</ExpSheet>
+    	<ImpSheet videoName="Import Sheet" videoComment="Import CutLeader Sheet.">impCLSheet.wmv</ImpSheet>
+    </ImpExp>
+    <Part categoryName="Draw Geometry">
+      <DrawBaseGeom videoName="Draw Basic Geometry" videoComment="Draw basic geometry, such as line, arc.">drawBaseGeom.wmv</DrawBaseGeom>
+      <DrawStdGeom videoName="Draw Standard Geometry" videoComment="Draw basic geometry, such as rectangle, ellipse.">drawStdGeom.wmv</DrawStdGeom>
+    </Part>
+    <CutFeature categoryName="Edit Cut Feature">
+    	<Lead videoName="Edit Lead In/Out" videoComment="Edit start cut point and lead in/out of the loop.">editLead.wmv</Lead>
+	<BMJ videoName="Edit Micro Joint" videoComment="Edit micro joint of the loop.">editBMJ.wmv</BMJ>
+	<Corner videoName="Edit Corner Feature" videoComment="Edit the corner feature of the loop.">editCorner.wmv</Corner>
+	<Condition videoName="Edit Cut Condition" videoComment="Edit the cut condition of the geometry.">editCond.wmv</Condition>
+    </CutFeature>
+    <Sheet categoryName="Edit Sheet">
+    	<AddPart videoName="Add Part Instance" videoComment="Add part on sheet.">addPartInst.wmv</AddPart>
+    	<GridPart videoName="Create Part Grid" videoComment="Create part grid.">gridPart.wmv</GridPart>
+	<EditPart videoName="Edit Part" videoComment="Edit part on sheet.">editPartInst.wmv</EditPart>
+    </Sheet>
+    <CutSeq categoryName="Edit Cut Sequence">
+    	<AutoSeq videoName="Auto Sequnce" videoComment="Generate cut sequences for all parts on sheet.">autoSeq.wmv</AutoSeq>
+    	<AddSeq videoName="Add Sequence" videoComment="Add cut sequence for the part on sheet.">addSeq.wmv</AddSeq>
+	<ViewSeq videoName="View Sequence" videoComment="Simulate the cut sequences of all parts.">viewSeq.wmv</ViewSeq>
+	<GenerateNC videoName="Generate NC Code" videoComment="Generate NC Code for all cut sequences.">generateNC.wmv</GenerateNC>
+    </CutSeq>
+    <Nest categoryName="Auto Nesting">
+	<CreateNestJob videoName="Create Nest Job" videoComment="Create Nest Job to generate sheets.">createNestJob.wmv</CreateNestJob>
+	<AdjustNestParam videoName="Adjust Nest Param" videoComment="Adjust Nest params, such as rotate angle, nest priority.">adjustNestParam.wmv</AdjustNestParam>
+	<PartInPartNest videoName="Part-In-Part Nest" videoComment="Embed some parts within other parts during nesting.">partInPartNest.wmv</PartInPartNest>
+	<RemnantNest videoName="Generate Remnant Material" videoComment="Generate skeleton material after nesting.">remnantNest.wmv</RemnantNest>
+    </Nest>
+    <ExpLib categoryName="Config Expert Library">
+	<CutFeatureRule videoName="Cut Feature Rule" videoComment="The rules which will be applied when processing cut feature.">cutFeatureRule.wmv</CutFeatureRule>
+	<CutSeqRule videoName="Cut Sequence Rule" videoComment="The rules which will be applied when generating cut sequence.">cutSeqRule.wmv</CutSeqRule>
+	<NestRule videoName="Auto Nest Rule" videoComment="The rules which will be applied when nesting.">nestRule.wmv</NestRule>
+    </ExpLib>
+</Video>
