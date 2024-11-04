@@ -1,6 +1,0 @@
-; clBaseDataUI.def : Declares the module parameters for the DLL.
-
-LIBRARY      "clBaseDataUI"
-
-EXPORTS
-    ; Explicit exports can go here

@@ -1,6 +1,0 @@
-; clNestUI.def : Declares the module parameters for the DLL.
-
-LIBRARY      "clNestUI"
-
-EXPORTS
-    ; Explicit exports can go here
