@@ -1,0 +1,1 @@
+CutLeader is a cad/cam software for 2D cutting machine, it supports oxy/plasma/laser/waterjet/router machines and so on. UI source code is provided in this project, user could customize the interface and features based on the ready to use software. 
